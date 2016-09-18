@@ -33,8 +33,10 @@ public class Main{
 	
 	}
 	public static void intro() {
-			Scanner scan = new Scanner(System.in);
-     	System.out.println("TWITCHBLADE: ");
+
+      Scanner scan = new Scanner(System.in);
+
+      System.out.println("TWITCHBLADE: ");
     	System.out.println("1.write tweet");
       System.out.println("2.Sign up ");
       System.out.println("3. Sign ip ");
